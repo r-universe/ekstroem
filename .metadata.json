@@ -1,0 +1,22 @@
+[
+  {
+    "package": "dataMaid",
+    "oncran": true
+  },
+  {
+    "package": "dataReporter",
+    "oncran": true
+  },
+  {
+    "package": "MESS",
+    "oncran": true
+  },
+  {
+    "package": "MethComp",
+    "oncran": true
+  },
+  {
+    "package": "socceR",
+    "oncran": true
+  }
+]
