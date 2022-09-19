@@ -13,6 +13,16 @@
 	url = https://github.com/ekstroem/datareporter
 	shallow = true
 	registered = true
+[submodule "MESS"]
+	path = MESS
+	url = https://github.com/ekstroem/mess
+	shallow = true
+	registered = true
+[submodule "MethComp"]
+	path = MethComp
+	url = https://github.com/ekstroem/methcomp
+	shallow = true
+	registered = true
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/ekstroem/soccer
