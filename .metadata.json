@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "networkR",
+    "oncran": true
+  },
+  {
     "package": "socceR",
     "oncran": true
   }

@@ -23,6 +23,11 @@
 	url = https://github.com/ekstroem/methcomp
 	shallow = true
 	registered = true
+[submodule "networkR"]
+	path = networkR
+	url = https://github.com/ekstroem/networkr
+	shallow = true
+	registered = true
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/ekstroem/soccer
