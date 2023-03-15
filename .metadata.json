@@ -1,6 +1,6 @@
 [
   {
-    "package": "dataMaid",
+    "package": "MESS",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "MESS",
+    "package": "socceR",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "socceR",
+    "package": "dataMaid",
     "oncran": true
   }
 ]
