@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MESS"]
-	path = MESS
-	url = https://github.com/ekstroem/mess
+[submodule "dataMaid"]
+	path = dataMaid
+	url = https://github.com/ekstroem/datamaid
 	shallow = true
 	registered = true
 [submodule "dataReporter"]
@@ -13,9 +13,9 @@
 	url = https://github.com/ekstroem/datareporter
 	shallow = true
 	registered = true
-[submodule "socceR"]
-	path = socceR
-	url = https://github.com/ekstroem/soccer
+[submodule "MESS"]
+	path = MESS
+	url = https://github.com/ekstroem/mess
 	shallow = true
 	registered = true
 [submodule "MethComp"]
@@ -23,8 +23,8 @@
 	url = https://github.com/ekstroem/methcomp
 	shallow = true
 	registered = true
-[submodule "dataMaid"]
-	path = dataMaid
-	url = https://github.com/ekstroem/datamaid
+[submodule "socceR"]
+	path = socceR
+	url = https://github.com/ekstroem/soccer
 	shallow = true
 	registered = true
