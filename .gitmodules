@@ -13,6 +13,11 @@
 	url = https://github.com/ekstroem/datareporter
 	shallow = true
 	registered = true
+[submodule "isdals"]
+	path = isdals
+	url = https://github.com/cran/isdals
+	shallow = true
+	registered = true
 [submodule "MESS"]
 	path = MESS
 	url = https://github.com/ekstroem/mess
@@ -31,5 +36,10 @@
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/ekstroem/soccer
+	shallow = true
+	registered = true
+[submodule "SuperRanker"]
+	path = SuperRanker
+	url = https://github.com/cran/SuperRanker
 	shallow = true
 	registered = true
