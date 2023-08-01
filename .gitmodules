@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MESS"]
+	path = MESS
+	url = https://github.com/ekstroem/mess
+[submodule "MethComp"]
+	path = MethComp
+	url = https://github.com/ekstroem/methcomp
+[submodule "SuperRanker"]
+	path = SuperRanker
+	url = https://github.com/cran/SuperRanker
 [submodule "dataMaid"]
 	path = dataMaid
 	url = https://github.com/ekstroem/datamaid
@@ -11,18 +20,9 @@
 [submodule "isdals"]
 	path = isdals
 	url = https://github.com/cran/isdals
-[submodule "MESS"]
-	path = MESS
-	url = https://github.com/ekstroem/mess
-[submodule "MethComp"]
-	path = MethComp
-	url = https://github.com/ekstroem/methcomp
 [submodule "networkR"]
 	path = networkR
 	url = https://github.com/ekstroem/networkr
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/ekstroem/soccer
-[submodule "SuperRanker"]
-	path = SuperRanker
-	url = https://github.com/cran/SuperRanker
